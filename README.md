@@ -27,11 +27,11 @@ react-icons
 ## Instalação
 
 ```sh
-
+git@github.com:Anthony07M/desafio-ioays-book.git
 ```
 
 ```sh
-cd 
+cd desafio-ioays-book
 ```
 
 ```sh
@@ -49,6 +49,7 @@ localhost:3000
 ## URL e login padrão:
 
 ```sh
+Url: localhost:3000
 Usuário de Teste: desafio@ioasys.com.br
 Senha de Teste: 12341234
 ```
